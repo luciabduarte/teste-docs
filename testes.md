@@ -34,4 +34,4 @@
    Mostra as diferenças entre dois commits, branches, arquivos ou o diretório de trabalho e a área de staging.
 
 12. **git log**  
-   Mostra o histórico de commits no branch atual, juntamente com suas mensagens, autores e datas.
+   Mostra o histórico de commits no branch atual, juntamente com suas mensagens, autores e datas
